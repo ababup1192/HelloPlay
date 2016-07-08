@@ -1,5 +1,3 @@
-import NativePackagerKeys._
-
 name := """HelloPlay"""
 
 version := "1.0-SNAPSHOT"
